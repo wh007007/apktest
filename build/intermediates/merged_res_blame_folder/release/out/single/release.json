@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\soft\\Android-SDK@3.4.15.81354_20220613\\Android-SDK@3.4.15.81354_20220613\\HBuilder-HelloUniApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_push.png.flat",
+        "source": "D:\\soft\\Android-SDK@3.4.15.81354_20220613\\Android-SDK@3.4.15.81354_20220613\\HBuilder-HelloUniApp\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    },
+    {
+        "merged": "D:\\soft\\Android-SDK@3.4.15.81354_20220613\\Android-SDK@3.4.15.81354_20220613\\HBuilder-HelloUniApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\soft\\Android-SDK@3.4.15.81354_20220613\\Android-SDK@3.4.15.81354_20220613\\HBuilder-HelloUniApp\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\soft\\Android-SDK@3.4.15.81354_20220613\\Android-SDK@3.4.15.81354_20220613\\HBuilder-HelloUniApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\soft\\Android-SDK@3.4.15.81354_20220613\\Android-SDK@3.4.15.81354_20220613\\HBuilder-HelloUniApp\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    }
+]
