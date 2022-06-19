@@ -1,6 +1,0 @@
-com/android/HelloH5/wxapi/WXPayEntryActivity.java
- com.android.HelloH5.wxapi.WXPayEntryActivity
-com/android/HelloH5/BuildConfig.java
- com.android.HelloH5.BuildConfig
-com/android/HelloH5/wxapi/WXEntryActivity.java
- com.android.HelloH5.wxapi.WXEntryActivity

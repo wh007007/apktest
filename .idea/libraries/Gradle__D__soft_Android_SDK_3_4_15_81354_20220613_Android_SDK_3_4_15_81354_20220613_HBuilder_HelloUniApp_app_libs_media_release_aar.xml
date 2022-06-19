@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: D./soft/Android-SDK@3.4.15.81354_20220613/Android-SDK@3.4.15.81354_20220613/HBuilder-HelloUniApp/app/libs/media-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3600f5912feaabd023075eb1ea03b50/jetified-media-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3600f5912feaabd023075eb1ea03b50/jetified-media-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3600f5912feaabd023075eb1ea03b50/jetified-media-release/jars/libs/danmaku-flame-0.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3600f5912feaabd023075eb1ea03b50/jetified-media-release/jars/libs/ijkplayer.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3600f5912feaabd023075eb1ea03b50/jetified-media-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3600f5912feaabd023075eb1ea03b50/jetified-media-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

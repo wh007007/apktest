@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./soft/Android-SDK@3.4.15.81354_20220613/Android-SDK@3.4.15.81354_20220613/HBuilder-HelloUniApp/app/libs/lib.5plus.base-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/45e24d1151926b9d24ab5264b04e9273/jetified-lib.5plus.base-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/45e24d1151926b9d24ab5264b04e9273/jetified-lib.5plus.base-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/45e24d1151926b9d24ab5264b04e9273/jetified-lib.5plus.base-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./soft/Android-SDK@3.4.15.81354_20220613/Android-SDK@3.4.15.81354_20220613/HBuilder-HelloUniApp/app/libs/weex_gcanvas-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a8bea7a3b9bd88f4718163a19f44cdd/jetified-weex_gcanvas-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a8bea7a3b9bd88f4718163a19f44cdd/jetified-weex_gcanvas-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a8bea7a3b9bd88f4718163a19f44cdd/jetified-weex_gcanvas-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
