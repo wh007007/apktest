@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: D./soft/Android-SDK@3.4.15.81354_20220613/Android-SDK@3.4.15.81354_20220613/HBuilder-HelloUniApp/app/libs/utdid4all-1.5.2.1-proguard.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/utdid4all-1.5.2.1-proguard.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
